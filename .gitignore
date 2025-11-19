@@ -1,0 +1,12 @@
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Entornos Virtuales
+venv/
+env/
+#Gestor de entornos:
+__pycache__/
+*.pyc
+
+# Archivos de Sistema Operativo 
+.DS_Store
