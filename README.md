@@ -9,7 +9,7 @@ This repository documents my path mastering Python, Algorithms, and System Archi
     - Mastered classes, inheritance, and encapsulation.
 - [x] **Python Functional Programming:**
     - Recursion, Decorators, Closures, Pure Functions, and Sum Types.
-- [ ] **Data Structures & Algorithms:** *Next up*
+- [ ] **Data Structures & Algorithms:** *Currently working on this*
 
 ## 🛠 Technologies 
 
@@ -17,7 +17,7 @@ This repository documents my path mastering Python, Algorithms, and System Archi
 
 ## Projects
 
-[Build an AI Agent in Python](https://github.com/EderGtz/LLM-Agent): Currently working on this
+[AI Agent CLI in Python](https://github.com/EderGtz/LLM-Agent): Autonomous terminal tool powered by the Gemini API. It uses a reasoning loop to navigate the file system, and execute commands. Features include security guardrails, state management, and robust argument parsing.
 
 [Asteroids on Pygame](https://github.com/Aceitunitaking25/Asteroids_on_pygame) : Classic arcade game built using Python, Pygame, and Object-Oriented Programming principles (Inheritance & State Management).
 
