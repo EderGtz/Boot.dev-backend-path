@@ -1,12 +1,17 @@
-# Archivos de Jupyter
+# Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Entornos Virtuales
+# Virtual env
 venv/
 env/
-#Gestor de entornos:
+#Python files
 __pycache__/
 *.pyc
 
-# Archivos de Sistema Operativo 
+# OS files 
 .DS_Store
+
+#Directories from other courses that don't provide valuable information
+Git/
+Linux/
+Python/
